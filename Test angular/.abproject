@@ -1,0 +1,45 @@
+{
+  "ProjectName": "Test angular",
+  "ProjectGuid": "80cd6a11-5a83-4eb2-adb0-4719f85d270f",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.Testangular",
+  "DisplayName": "Test angular",
+  "Author": "",
+  "Description": "Test angular",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "FrameworkVersion": "4.0.0",
+  "AndroidPermissions": [
+    "android.permission.INTERNET"
+  ],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "true",
+  "iOSStatusBarStyle": "Default",
+  "Framework": "Cordova",
+  "WP8TileTitle": "",
+  "WP8Publisher": "",
+  "WP8Capabilities": [
+    "ID_CAP_NETWORKING",
+    "ID_CAP_WEBBROWSERCOMPONENT"
+  ],
+  "WP8Requirements": [],
+  "WP8PublisherID": "{7048d7e5-8ff6-471a-a0fc-7cf6c3b6bb8e}",
+  "WP8ProductID": "{ea6395fd-0017-4f9b-84de-9229f009055f}",
+  "WPSdk": "8.0",
+  "WP8PackageIdentityName": "1234Telerik.Testangular",
+  "WP8WindowsPublisherName": "CN=Telerik",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA",
+    "ID_RESOLUTION_HD720P"
+  ]
+}
